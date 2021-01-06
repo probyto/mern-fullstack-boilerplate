@@ -1,7 +1,9 @@
 # MERN JWT Auth
 
 ACKNOWLEDGMENT:
-This is a public repo obtained from github and it is used only as reference for internal process at probyto. Probyto does not own or claim ownership of this code. The complete credit goes to the owner of the repo
+This is a public repo obtained from github and it is used only as reference for internal process at probyto. Probyto does not own or claim ownership of this code. The complete credit goes to the owner of the repo (https://github.com/vishalnagda1/mern-jwt-auth.git)
+
+
 
 [![GitHub license](https://img.shields.io/github/license/vishalnagda1/mern-jwt-auth?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/blob/master/LICENSE) [![Repository version](https://img.shields.io/badge/version-2.0.0-brightgreen?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/releases/tag/v2.0.0)
 
@@ -42,16 +44,16 @@ Lastly, make sure you have the following installed.
    - Clone with HTTPS *(required [git](https://git-scm.com/) installed in your system)*
 
      ```shell
-     git clone https://github.com/vishalnagda1/mern-jwt-auth.git
+     git clone https://github.com/probyto/mern-fullstack-boilerplate.git
      ```
 
    - Clone with SSH *(required [git](https://git-scm.com/) installed in your system)*
 
      ```sh
-     git clone git@github.com:vishalnagda1/mern-jwt-auth.git
+     git clone git@github.com:probyto/mern-fullstack-boilerplate.git
      ```
 
-   - [Download Zip](https://github.com/vishalnagda1/mern-jwt-auth/archive/master.zip)
+   - [Download Zip](https://github.com/probyto/mern-fullstack-boilerplate.git/archive/master.zip)
 
 2. Navigate to project directory in the terminal or command prompt.
 
@@ -173,8 +175,8 @@ Lastly, make sure you have the following installed.
 
 #### Contributing
 
-1. Fork it ( https://github.com/vishalnagda1/mern-jwt-auth/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
+1. Fork it ( https://github.com/probyto/mern-fullstack-boilerplate/fork )
+2. Create your feature branch (`git checkout -b <yourname>`)
+3. Commit your changes (`git commit -am 'Add assigment code'`)
+4. Push to the branch (`git push origin <yourname>`)
 5. Create a new pull request.
